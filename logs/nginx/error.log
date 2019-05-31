@@ -1,0 +1,70 @@
+2019/05/31 20:20:45 [info] 6#6: *3 client closed connection while waiting for request, client: 192.168.160.1, server: 0.0.0.0:80
+2019/05/31 21:02:03 [info] 6#6: *4 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:02:37 [info] 6#6: *9 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:02:38 [info] 6#6: *5 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/"
+2019/05/31 21:03:39 [info] 6#6: *14 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:03:39 [info] 6#6: *22 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /laravelvue//images/includes/time.png HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/home"
+2019/05/31 21:03:40 [info] 6#6: *21 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:03:43 [info] 6#6: *24 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:03:45 [info] 6#6: *20 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:10:58 [info] 6#6: *49 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /js/es6-promise.map HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301"
+2019/05/31 21:15:42 [info] 6#6: *69 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /js/es6-promise.map HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301"
+2019/05/31 21:15:42 [info] 6#6: *66 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:16:06 [info] 6#6: *64 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:16:29 [info] 6#6: *67 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:16:37 [info] 6#6: *63 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:17:35 [info] 6#6: *76 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:17:41 [info] 6#6: *87 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:18:30 [info] 6#6: *81 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:18:30 [info] 6#6: *68 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:19:40 [info] 6#6: *106 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:20 [info] 6#6: *205 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:29 [info] 6#6: *134 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:38 [info] 6#6: *101 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:38 [info] 6#6: *168 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:38 [info] 6#6: *241 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:20:44 [warn] 6#6: *250 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /posts/create HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/blog"
+2019/05/31 21:21:37 [info] 6#6: *286 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:21:39 [info] 6#6: *282 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "POST /register_online HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat"
+2019/05/31 21:21:42 [info] 6#6: *284 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:43:41 [info] 6#6: *354 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:44:28 [info] 6#6: *359 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:49:13 [info] 6#6: *390 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:49:13 [info] 6#6: *391 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:50:10 [info] 6#6: *394 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:50:34 [info] 6#6: *418 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:50:34 [info] 6#6: *407 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:54:11 [info] 6#6: *438 client 192.168.160.1 closed keepalive connection
+2019/05/31 21:55:48 [info] 6#6: *449 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:03:50 [info] 6#6: *480 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:03:50 [info] 6#6: *481 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:05:27 [info] 6#6: *498 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:06:28 [info] 6#6: *510 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:11:08 [info] 6#6: *526 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:13:03 [info] 6#6: *537 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:15:40 [info] 6#6: *564 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:22:29 [info] 6#6: *595 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:24:56 [info] 6#6: *589 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:28:50 [info] 6#6: *592 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:30:58 [info] 6#6: *637 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:37:25 [info] 6#6: *654 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:39:37 [info] 6#6: *652 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:41:20 [info] 6#6: *687 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:42:05 [info] 6#6: *684 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:45:55 [info] 6#6: *734 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /check_relationship_status/32 HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:45:55 [info] 6#6: *732 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /get_auth_user_data HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:45:55 [info] 6#6: *733 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "POST /register_online HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:45:55 [info] 6#6: *730 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "POST /check_notices HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:45:55 [info] 6#6: *728 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "POST /broadcasting/auth HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:45:55 [info] 6#6: *731 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /messages/ HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/users/32"
+2019/05/31 22:46:01 [info] 6#6: *745 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: meetmateapp.com, request: "POST /register_online HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat"
+2019/05/31 22:50:32 [warn] 6#6: *804 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /wall/35 HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat/32"
+2019/05/31 22:50:58 [error] 6#6: *832 client intended to send too large body: 5016035 bytes, client: 192.168.160.1, server: meetmateapp.com, request: "POST /wall HTTP/1.1", host: "localhost:8301", referrer: "http://localhost:8301/wall/35"
+2019/05/31 22:51:24 [info] 6#6: *834 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:52:44 [warn] 6#6: *842 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /wall/35 HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat/32"
+2019/05/31 22:52:53 [info] 6#6: *842 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:53:23 [warn] 6#6: *878 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /wall/35 HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat/32"
+2019/05/31 22:53:32 [info] 6#6: *885 client 192.168.160.1 closed keepalive connection
+2019/05/31 22:55:16 [warn] 6#6: *918 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 192.168.160.1, server: meetmateapp.com, request: "POST /wall HTTP/1.1", host: "localhost:8301", referrer: "http://localhost:8301/wall/35"
+2019/05/31 22:55:57 [warn] 6#6: *925 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 192.168.160.1, server: meetmateapp.com, request: "GET /wall/35 HTTP/1.1", upstream: "fastcgi://192.168.160.3:9000", host: "localhost:8301", referrer: "http://localhost:8301/chat/32"
+2019/05/31 22:57:59 [info] 6#6: *930 client 192.168.160.1 closed keepalive connection
